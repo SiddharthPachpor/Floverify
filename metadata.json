@@ -1,0 +1,8 @@
+{
+  "name": "FlowVerify",
+  "description": "Procedural verification application for clinical training using WHO phlebotomy order-of-draw protocol and Gemini Vision classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
